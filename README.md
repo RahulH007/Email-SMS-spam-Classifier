@@ -1,6 +1,6 @@
 # Email/SMS Spam Detection
 
-[![Project Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.png)](https://github.com/RahulH007/Email-SMS-spam-Classifier/blob/main/Screenshot%202025-07-09%20184006.png)
+![Project Screenshot](https://user-images.githubusercontent.com/your-screenshot-url.png)(https://github.com/RahulH007/Email-SMS-spam-Classifier/blob/main/Screenshot%202025-07-09%20184006.png)
 
 A modern, user-friendly web application for detecting spam in emails and SMS messages using machine learning. Simply enter your message, click **Predict**, and instantly know if it's spam or not.
 
